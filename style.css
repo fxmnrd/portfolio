@@ -1,0 +1,26 @@
+body{
+    font-family:monospace;
+}
+.tagSelector{
+    float:left;
+    width:100%;
+    height:auto;
+    display:flex;
+}
+#frontend, #backend, #js, #htmlcss, #nodejs, #php, #mysql{
+    width:50%;
+    height:100px;
+    background-color:#FF7A00;
+    margin:10px;
+    width:100px;
+    height:50px;
+    border-radius: 60px;
+    margin:auto;
+    text-align: center;
+}
+.linkbutton{
+    background-color: #64BEFF;
+    width:100px;
+    height: 50px;
+    border-radius: 10px;
+}
